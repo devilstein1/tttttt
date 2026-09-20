@@ -1,0 +1,29 @@
+{
+  "name": "Vintage Cigar #18899",
+  "description": "An exclusive Vintage Cigar with the appearance Pearl Puff on a Midnight Blue background with Mountain Goat icons. Gifted by Назарий to лі𓅓 on 7 November 2024 with the comment “моему прекрасному, самому любимому и сладкому котенку💋”.",
+  "image": "https://nft.fragment.com/gift/vintagecigar-18899.webp",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "Pearl Puff"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Midnight Blue"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Mountain Goat"
+    }
+  ],
+  "lottie": "https://nft.fragment.com/gift/vintagecigar-18899.lottie.json",
+  "original_details": {
+    "sender_name": "Назарий",
+    "sender_telegram_id": 6847090195,
+    "recipient_name": "лі𓅓",
+    "recipient_telegram_id": 1374603575,
+    "date": "2024-11-07",
+    "message": "моему прекрасному, самому любимому и сладкому котенку💋"
+  },
+  "animation_url": "https://nft.fragment.com/gift/vintagecigar-18899.lottie.json"
+}
