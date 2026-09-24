@@ -1,0 +1,26 @@
+{
+  "name": "Plush Pepe #263",
+  "description": "An exclusive Plush Pepe with the appearance Marble on a Pacific Cyan background with Pizza Slice icons. Gifted to coup on 30 November 2024.",
+  "image": "https://nft.fragment.com/gift/plushpepe-263.webp",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "Marble"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Pacific Cyan"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Pizza Slice"
+    }
+  ],
+  "lottie": "https://nft.fragment.com/gift/plushpepe-263.lottie.json",
+  "original_details": {
+    "recipient_name": "coup",
+    "recipient_telegram_id": 5825705556,
+    "date": "2024-11-30"
+  },
+  "animation_url": "https://nft.fragment.com/gift/plushpepe-263.lottie.json"
+}
