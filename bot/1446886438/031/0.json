@@ -1,0 +1,21 @@
+{
+  "name": "Plush Pepe #1765",
+  "description": "An exclusive Plush Pepe with the appearance Milano on a Lemongrass background with Cobra icons.",
+  "image": "https://nft.fragment.com/gift/plushpepe-1765.webp",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "Milano"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Lemongrass"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Cobra"
+    }
+  ],
+  "lottie": "https://nft.fragment.com/gift/plushpepe-1765.lottie.json",
+  "animation_url": "https://nft.fragment.com/gift/plushpepe-1765.lottie.json"
+}
