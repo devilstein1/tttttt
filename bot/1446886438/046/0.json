@@ -1,0 +1,21 @@
+{
+  "name": "Plush Pepe #1668",
+  "description": "An exclusive Plush Pepe with the appearance Leonardo on a Light Olive background with Firebird icons.",
+  "image": "https://nft.fragment.com/gift/plushpepe-1668.webp",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "Leonardo"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Light Olive"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Firebird"
+    }
+  ],
+  "lottie": "https://nft.fragment.com/gift/plushpepe-1668.lottie.json",
+  "animation_url": "https://nft.fragment.com/gift/plushpepe-1668.lottie.json"
+}
