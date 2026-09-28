@@ -1,0 +1,21 @@
+{
+  "name": "Scared Cat #2480",
+  "description": "An exclusive Scared Cat with the appearance Bipolar Cat on a Burgundy background with Autumn Leaves icons.",
+  "image": "https://nft.fragment.com/gift/scaredcat-2480.webp",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "Bipolar Cat"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Burgundy"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Autumn Leaves"
+    }
+  ],
+  "lottie": "https://nft.fragment.com/gift/scaredcat-2480.lottie.json",
+  "animation_url": "https://nft.fragment.com/gift/scaredcat-2480.lottie.json"
+}
